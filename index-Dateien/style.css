@@ -1,0 +1,31 @@
+body {
+    display: grid;
+    justify-content: center;
+    margin: 18vh;
+}
+
+.fst {
+    display: grid;
+    place-items: center;
+    padding: 1em;
+    box-shadow: 0 0 11px rgba(160, 159, 159, 0.2);
+}
+
+ul {
+    margin: 5vh;
+}
+
+.date {
+    color: orange;
+}
+
+h5 {
+    margin-top: -1em;
+}
+
+h6 {
+    color: red;
+    text-align: center;
+    margin-top: 1em;
+}
+
